@@ -14,6 +14,9 @@ Table of contents
 
 ## Tools
 
+### Other
+- [emacs][]\: An extensible, customizable, free/libre text editor — and more.
+
 ### Productivity
 
 ### Git
@@ -25,6 +28,15 @@ Table of contents
 
 ### C++
 
+## Frameworks (or Libraries)
+### HTML
+- [pharser][]\: Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
+- [tabler][]\: Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap 4
+
+### JavaScript
 
 <!-- Links --> 
 [libgit2]: https://github.com/libgit2/libgit2
+[pharser]: https://github.com/photonstorm/phaser
+[tabler]: https://github.com/tabler/tabler
+[emacs]: https://github.com/emacs-mirror/emacs
